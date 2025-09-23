@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.instructorphoto img {
+  width: 180px;
+  height: 180px;
+  border-radius: 240px;
+  margin-bottom: 10px;
+  clip-path: circle(50%);
+  object-fit: cover;
+  margin-right: 20px;
+
+}
+
+.instructorphotosmall img {
+  width: 60px;
+  border-radius: 60px;
+  margin-bottom: 10px;
+}
+
+.instructor {
+  display: inline-block;
+  width: 180px;
+  text-align: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
