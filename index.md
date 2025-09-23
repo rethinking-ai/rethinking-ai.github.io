@@ -6,7 +6,7 @@ title: "Rethinking AI: Efficiency, Frugality, and Sustainability"
 # Abstract
 
 As Artificial Intelligence systems grow in complexity and scale, so do their environmental and societal impact. This workshop explores the urgent need for rethinking AI in terms of sustainability, with a focus on ecological and environmental issues. Presentations and discussions will rely on two pillars: 
-*Sustainability in AI*, focused on reducing the ecological footprint of machine learning research and deployment, and *AI for Sustainability*, highlighting applications to global environmental challenges. With an emphasis on introspection of current practices, the workshop aims to foster responsible innovation, shared metrics, and encourage the community to design efficient, accessible, and viable with constrained resources.
+*Sustainability in AI*, focused on reducing the ecological footprint of machine learning research and deployment, and *AI for Sustainability*, highlighting applications to global environmental challenges. With an emphasis on introspection of current practices, the workshop aims to foster responsible innovation, shared metrics, and encourage the community to design methods that are efficient, accessible, and viable with constrained resources.
 
 # Important Dates
 
