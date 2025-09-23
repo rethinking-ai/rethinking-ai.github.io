@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rethinking AI:   Efficiency, Frugality, and Sustainability"
+title: "Rethinking AI: Efficiency, Frugality, and Sustainability"
 ---
 
 # Abstract
@@ -40,10 +40,11 @@ We also aim to foreground the *environmental footprint of AI itself*. We encoura
 - Socio-technical and governance perspectives on responsible AI development
 - Position papers reflecting on current research norms and proposing strategies for sustainable AI practices
 
-## Submission Format
+## Submission Guidelines
 
-- Submissions should be **at least 4 pages**, **up to 9 pages** (excluding references and appendix) and following [NeurIPS formatting style](https://neurips.cc/Conferences/2025/CallForPapers).
-- We welcome *research papers, position papers, and case studies*. Accepted contributions are non-archival and will be presented as posters, with selected works invited for short spotlight talks.
+- Submissions of **novel and unpublished work** should be **at least 2 pages**, **up to 4 pages** (excluding references and appendix) and following [NeurIPS formatting style](https://neurips.cc/Conferences/2025/CallForPapers).
+- **Published papers** can also be submitted in their original format, with the reviews included as supplementary material.
+- We welcome *research papers, position papers, and case studies*. Accepted contributions are non-archival (not published in proceedings) and will be presented as posters, with selected works invited for short spotlight talks. We expect at least one author to present at the workshop.
 
 # Speakers
 
