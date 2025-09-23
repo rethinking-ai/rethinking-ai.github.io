@@ -1,3 +1,3 @@
 # Webpage for the Rethinking AI workshop at Eurips 2025
 
-link
+https://rethinking-ai.github.io/

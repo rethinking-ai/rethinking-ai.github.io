@@ -19,9 +19,19 @@ We invite submissions to the **Rethinking AI** workshop, which will bring togeth
 
 The workshop will feature **two complementary tracks**:
 
-## Track 1: AI for Sustainability
+## Track 1: Sustainability in AI
 
-We welcome work that demonstrates how AI can contribute to tackling urgent environmental challenges. Submissions may include, but are not limited to, applications of machine learning for:
+We aim to discuss the *environmental footprint of AI itself*. We encourage submissions that address:
+
+- Measuring and reporting the carbon, energy, and water footprint of AI models
+- Algorithmic and hardware efficiency (compression, pruning, quantization, frugal AI)
+- Lifecycle impacts of AI infrastructure (training, deployment, hardware production and disposal)
+- Socio-technical and governance perspectives on responsible AI development
+- Position papers reflecting on current research norms and proposing strategies for sustainable AI practices
+
+## Track 2: AI for Sustainability
+
+We also welcome work that demonstrates how AI can contribute to tackling urgent environmental challenges. Submissions may include, but are not limited to, applications of machine learning for:
 
 - Climate science and modeling
 - Biodiversity monitoring and conservation
@@ -29,16 +39,6 @@ We welcome work that demonstrates how AI can contribute to tackling urgent envir
 - Renewable energy and grid optimization
 - Sustainable urban planning and mobility
 - Resource management and the circular economy
-
-## Track 2: Sustainability in AI
-
-We also aim to foreground the *environmental footprint of AI itself*. We encourage submissions that address:
-
-- Measuring and reporting the carbon, energy, and water footprint of AI models
-- Algorithmic and hardware efficiency (compression, pruning, quantization, frugal AI)
-- Lifecycle impacts of AI infrastructure (training, deployment, hardware production and disposal)
-- Socio-technical and governance perspectives on responsible AI development
-- Position papers reflecting on current research norms and proposing strategies for sustainable AI practices
 
 ## Submission Guidelines
 
