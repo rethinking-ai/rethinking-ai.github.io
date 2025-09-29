@@ -90,3 +90,10 @@ TBA
 <div>Zeynep Akata<br><small>TUM / Helmholtz Munich</small></div>
 </a>
 </div>
+
+# Sponsors
+
+<div>
+<a href="https://elias-ai.eu/" target="_blank">
+<div><img src="https://elias-ai.eu/wp-content/uploads/2023/09/elias_logo_big-1.png" width="20%">
+</div>
