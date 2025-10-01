@@ -13,6 +13,12 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 - **Submission Deadline:** October 10th, 2025, 23:59 AoE
 - **Accept / Reject notification:** October 31st, 2025
 
+# Submission link
+
+- Submissions will be managed through OpenReview: 
+  - <https://openreview.net/group?id=EurIPS.cc/2025/Workshop/RethinkingAI>
+  - Note that newly created profiles on OpenReview *without an institutional email* will go through moderation process that *can take up to two weeks*. 
+
 # Call for Contributions
 
 We invite submissions to the **Rethinking AI** workshop, which will bring together researchers, practitioners, and policymakers to discuss the dual challenges of applying AI for environmental preservation and making AI itself more environmentally responsible.
@@ -42,7 +48,7 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 
 ## Submission Guidelines
 
-- Submissions of **novel and unpublished work** should be **at least 2 pages**, **up to 4 pages** (excluding references and appendix) and following [NeurIPS formatting style](https://neurips.cc/Conferences/2025/CallForPapers).
+- We invite submissions of **novel and unpublished work**, as either **short papers** of at least 2 pages and up to 4 pages, or **long papers** of up to 9 pages. All page limits are excluding references and appendix. Submissions should follow [NeurIPS formatting style](https://neurips.cc/Conferences/2025/CallForPapers), the checklist can be optionally left out.
 - **Published papers** can also be submitted in their original format, with the reviews included as supplementary material.
 - We welcome *research papers, position papers, and case studies*. Accepted contributions are non-archival (not published in proceedings) and will be presented as posters, with selected works invited for short spotlight talks. We expect at least one author to present at the workshop.
 
@@ -97,3 +103,9 @@ TBA
 <a href="https://elias-ai.eu/" target="_blank">
 <div><img src="https://elias-ai.eu/wp-content/uploads/2023/09/elias_logo_big-1.png" width="20%">
 </div>
+</a>
+</div>
+
+# Contact  
+
+For any inquiry, you can reach out to: <rethinking-ai-workshop@googlegroups.com>
