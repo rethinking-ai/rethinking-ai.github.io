@@ -22,7 +22,7 @@ Submissions will be managed through OpenReview:
 # Call for Voluntary Reviewers
 
 We are currently seeking voluntary reviewers to assist in the evaluation of submissions. If you have relevant expertise and are willing to contribute your time and insights, please fill out our reviewer sign-up form: <https://forms.gle/sVbzN9zs2UqyVc2n6>  
-Reviewers must have an OpenReview account to participate. Your involvement will play a crucial role in ensuring the quality of our workshop proceedings.
+Reviewers must have an OpenReview account to participate. Your involvement will play a crucial role in ensuring the quality of the work presented at the workshop.
 
 # Call for Contributions
 
