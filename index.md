@@ -10,14 +10,19 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 
 # Important Dates
 
-- **Submission Deadline:** October 10th, 2025, 23:59 AoE
+- **Submission Deadline:** ~~October 10th~~ **October 17th**, 2025, 23:59 AoE
 - **Accept / Reject notification:** October 31st, 2025
 
 # Submission link
 
-- Submissions will be managed through OpenReview: 
+Submissions will be managed through OpenReview: 
   - <https://openreview.net/group?id=EurIPS.cc/2025/Workshop/RethinkingAI>
   - Note that newly created profiles on OpenReview *without an institutional email* will go through moderation process that *can take up to two weeks*. 
+
+# Call for Voluntary Reviewers
+
+We are currently seeking voluntary reviewers to assist in the evaluation of submissions. If you have relevant expertise and are willing to contribute your time and insights, please fill out our reviewer sign-up form: <https://forms.gle/sVbzN9zs2UqyVc2n6>  
+Reviewers must have an OpenReview account to participate. Your involvement will play a crucial role in ensuring the quality of our workshop proceedings.
 
 # Call for Contributions
 
