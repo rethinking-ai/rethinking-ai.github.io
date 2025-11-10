@@ -10,18 +10,18 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 
 # Important Dates
 
-- **Submission Deadline:** ~~October 10th~~ **October 17th**, 2025, 23:59 AoE
-- **Accept / Reject notification:** October 31st, 2025
+- **Submission Deadline:** ~~October 17th, 2025, 23:59 AoE~~
+- **Accept / Reject notification:** ~~October 31st, 2025~~
 
 # Submission link
 
 Submissions will be managed through OpenReview: 
-  - <https://openreview.net/group?id=EurIPS.cc/2025/Workshop/RethinkingAI>
+  - ~~<https://openreview.net/group?id=EurIPS.cc/2025/Workshop/RethinkingAI>~~ (*Submissions are closed*)
   - Note that newly created profiles on OpenReview *without an institutional email* will go through moderation process that *can take up to two weeks*. 
 
 # Call for Voluntary Reviewers
 
-We are currently seeking voluntary reviewers to assist in the evaluation of submissions. If you have relevant expertise and are willing to contribute your time and insights, please fill out our reviewer sign-up form: <https://forms.gle/sVbzN9zs2UqyVc2n6>  
+We are currently seeking voluntary reviewers to assist in the evaluation of submissions. If you have relevant expertise and are willing to contribute your time and insights, please fill out our reviewer sign-up form: ~~<https://forms.gle/sVbzN9zs2UqyVc2n6>~~  
 Reviewers must have an OpenReview account to participate. Your involvement will play a crucial role in ensuring the quality of the work presented at the workshop.
 
 # Call for Contributions
@@ -59,7 +59,57 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 
 # Speakers
 
-TBA
+<div class="instructor">
+<a href="https://www.lannelongue-group.org/" target="_blank">
+
+<div class="instructorphoto"><img src="https://www.lannelongue-group.org/images/team/loic-lannelongue1.jpg" width="7%"
+> </div>
+<div>Loïc Lannelongue<br><small>University of Cambridge</small></div>
+</a>
+
+</div>
+
+<div class="instructor">
+<a href="https://team.inria.fr/arches/claire-monteleoni/" target="_blank">
+
+<div class="instructorphoto"><img src="https://team.inria.fr/arches/files/2025/07/claire_monteleoni.jpeg" width="7%"
+> </div>
+<div>Claire Monteleoni<br><small>Inria</small></div>
+</a>
+
+</div>
+
+<div class="instructor">
+<a href="https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing" target="_blank">
+
+<div class="instructorphoto"><img src="https://www.compchem.nl/wp-content/uploads/BerndEnsing.jpg" width="7%"
+> </div>
+<div>Bernd Ensing<br><small>University of Amsterdam</small></div>
+</a>
+
+</div>
+
+<br>
+
+<div class="instructor">
+<a href="https://jwvdm.github.io/" target="_blank">
+
+<div class="instructorphoto"><img src="https://jwvdm.github.io/assets/images/jwvdm_headshot_small.jpg" width="7%"
+> </div>
+<div><small>Jan-Willem van de Meent</small><br><small>University of Amsterdam</small></div>
+</a>
+
+</div>
+
+<div class="instructor">
+<a href="https://gael-varoquaux.info/" target="_blank">
+
+<div class="instructorphoto"><img src="https://gael-varoquaux.info/images/gael_varoquaux.jpg" width="7%"
+> </div>
+<div>Gaël Varoquaux<br><small>Inria</small></div>
+</a>
+
+</div>
 
 # Organizers
 
@@ -110,6 +160,12 @@ TBA
 </div>
 </a>
 </div>
+
+<div><img src="./assets/images/EN_FundedbytheEU_RGB_Monochrome.png" width="40%">
+</div>
+
+*This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101120237 (ELIAS).*  
+
 
 # Contact  
 
