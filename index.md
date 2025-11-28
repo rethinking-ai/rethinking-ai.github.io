@@ -8,6 +8,53 @@ title: "Rethinking AI: Efficiency, Frugality, and Sustainability"
 As Artificial Intelligence systems grow in complexity and scale, so do their environmental and societal impact. This workshop explores the urgent need for rethinking AI in terms of sustainability, with a focus on ecological and environmental issues. Presentations and discussions will rely on two pillars: 
 *Sustainability in AI*, focused on reducing the ecological footprint of machine learning research and deployment, and *AI for Sustainability*, highlighting applications to global environmental challenges. With an emphasis on introspection of current practices, the workshop aims to foster responsible innovation, shared metrics, and encourage the community to design methods that are efficient, accessible, and viable with constrained resources.
 
+# Schedule (not final)
+
+| Time  |                 | Speaker |
+| ----- | -------------------- | ------- |
+| 08:30 | **Welcome**          | –       |
+| 08:40 | **Speaker 1**        | Loïc Lannelongue|
+| 09:35 | **Speaker 2**        | Claire Monteleoni|
+| 10:30 | ☕ **Coffee Break**   | –       |
+| 11:00 | **Poster Spotlights** | –       |
+| 11:30 | **Poster Session**   | –       |
+| 12:30 | 🍽️ **Lunch**        | –       |
+| 13:30 | **Speaker 3** | Bernd Ensing|
+| 14:00 | **Speaker 4** | Jan-Willem van de Meent|
+| 14:30 | **Speaker 5** | Sina Samangooei|
+| 15:00 | ☕ **Coffee Break**              | –              |
+| 15:45 | 🎤 **Panel Discussion**         | All the speakers  |
+| 16:45 | **Closing remarks**    | –              |
+
+# Accepted papers
+
+## 📑 Accepted Papers
+
+| Type | Title | Authors |
+|--------|---------|---------|
+| Short | **Approximate Matrix Multiplication for Energy-Efficient Training of LLMs** | Nils Kasper, Anna Kazachkova, Rainer Schlosser, Ralf Herbrich | 
+| Short | **Sustainable AI research? Researchers’ perceptions of the environmental impact of AI and emissions-feedback tools – a mixed methods study** | Theresa Willem, Marie Piraud | 
+| Long | **xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity** | Maximilian Beck, Kajetan Schweighofer, Sebastian Böck, Sebastian Lehner, Sepp Hochreiter | 
+| Short | **JumpLM - LLM Benchmarking and Interactive Performance Monitoring for higher GPU Utilization** | Lena Jurkschat, Anton Rygin, Elias Werner | 
+| Short | **NA-LR: Noise-Adaptive Low-Rank Parameterisation for Efficient Diffusion Models** | Jingyuan Wang, Federico Ottomano, Yingzhen Li | 
+| Long | **Cut Less, Fold More: Model Compression through the Lens of Projection Geometry** | Olga Saukh, Dong Wang, Haris Šikić, Yun Cheng, Lothar Thiele | 
+| Long | **Quant-Trim in Practice: Improved Cross-Platform Low-Bit Deployment on Edge NPUs** | Rayen Dhahri, Steffen Urban | 
+| Long | **Energy-Aware Benchmarking: A Case Study on Sampling Methods** | Anna Kazachkova, Johann Ukrow, Sven Köhler, Nicolas Alder, Rainer Schlosser, Ralf Herbrich | 
+| Long | **KaVa: Latent Reasoning via Compressed KV-Cache Distillation** | Anna Kuzina, Maciej Pióro, Paul N. Whatmough, Babak Ehteshami Bejnordi | 
+| Short | **Position: From Abundance to Frugality. Why the Future of Frontier AI Depends on Data Reduction** | Sophia N. Wilson, Raghavendra Selvan, Sebastian Mair | 
+| Long | **Climate And Resource Awareness is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race)** | Pedram Bakhtiarifard, Pınar Tözün, Christian Igel, Raghavendra Selvan | 
+| Long | **STaMP: Sequence Trasformation and Mixed Precision for Low-Precision Activation Quantization** | Marco Federici, Riccardo Del Chiaro, Boris van Breugel, Markus Nagel, Paul N. Whatmough | 
+| Long | **xLSTM Distillation: Achieving Teacher-Student Parity Through Efficient Hybrid Architectures** | Lukas Hauzenberger, Niklas Schmidinger, Thomas Schmied, Anamaria-Roberta Hartl, David Stap, Pieter-Jan Hoedt, Sebastian Böck, Günter Klambauer, Sepp Hochreiter | 
+| Long | **Optimizing Large Language Models: Metrics, Energy Efficiency, and Case Study Insights** | Tahniat Khan, Soroor Motie, Sedef Akinli Kocak, Shaina Raza | 
+| Short | **The impacts of AI on environmental sustainability and human well-being** | Noemi Luna Carmeno, Daniel Walton O'Neill, Tiago Domingos | 
+| Short | **Efficiency Will Not Lead to Sustainable Reasoning AI** | Philipp Wiesner, Daniel O'Neill, Francesca Larosa, Odej Kao | 
+| Short | **Modelling the Doughnut of social and planetary boundaries with frugal machine learning** | Stefano Vrizzi, Daniel Walton O'Neill | 
+| Long | **SpikeFit: Towards Optimal Deployment of Spiking Networks on Neuromorphic Hardware** | Ivan Kartashov, Mariia Pushkareva, Iakov Karandashev | 
+| Long | **Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation** |Aniketh Iyengar, Jiaqi Han, Boris Ruf, Vincent Grari, Marcin Detyniecki, Stefano Ermon  | 
+| Long | **CacheSaver: A Modular Framework for Efficient, Affordable, and Reproducible LLM Inference** |Nearchos Potamitis, Lars Henning Klein, Bardia Mohammadi, Chongyang Xu, Attreyee Mukherjee, Laurent Bindschaedler, Niket Tandon, Akhil Arora  | 
+| Long | **TiME: Tiny Monolingual Encoders for Efficient NLP Pipelines** | David Schulmeister, Valentin Hartmann, Lars Henning Klein, Robert West | 
+
+
 # Important Dates
 
 - **Submission Deadline:** ~~October 17th, 2025, 23:59 AoE~~
@@ -168,5 +215,6 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 
 
 # Contact  
+
 
 For any inquiry, you can reach out to: <rethinking-ai-workshop@googlegroups.com>
