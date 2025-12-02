@@ -14,7 +14,7 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 | ----- | -------------------- | ------- | ----- |
 | 08:30 | **Welcome**          | –       |  |
 | 08:40 | **Speaker 1**        | Loïc Lannelongue| |
-| 09:35 | **Speaker 2**        | Claire Monteleoni| AI Research  for Climate Change and Environmental Sustainability |
+| 09:35 | **Speaker 2**        | [Claire Monteleoni](https://team.inria.fr/arches/claire-monteleoni/)| AI Research  for Climate Change and Environmental Sustainability |
 | 10:30 | ☕ **Coffee Break**   | –       | |
 | 11:00 | **Poster Spotlights** | –       |  |
 | 11:30 | **Poster Session**   | –       |  |
@@ -252,4 +252,5 @@ Marco Federici -->
 
 
 For any inquiry, you can reach out to: <rethinking-ai-workshop@googlegroups.com>
+
 
