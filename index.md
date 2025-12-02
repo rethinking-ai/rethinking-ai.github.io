@@ -14,7 +14,7 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 | ----- | -------------------- | ------- | ----- |
 | 08:30 | **Welcome**          | –       |  |
 | 08:40 | **Speaker 1**        | Loïc Lannelongue| |
-| 09:35 | **Speaker 2**        | Claire Monteleoni| |
+| 09:35 | **Speaker 2**        | Claire Monteleoni| AI Research  for Climate Change and Environmental Sustainability |
 | 10:30 | ☕ **Coffee Break**   | –       | |
 | 11:00 | **Poster Spotlights** | –       |  |
 | 11:30 | **Poster Session**   | –       |  |
@@ -139,6 +139,15 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 <br>
 
 <div class="instructor">
+<a href="https://www.cusp.ai/" target="_blank">
+
+<div class="instructorphoto"><img src="./assets/images/sina_picture.jpg" width="7%"
+> </div>
+<div>Sina Samangooei<br><small>CuspAI</small></div>
+</a>
+</div>
+
+<div class="instructor">
 <a href="https://jwvdm.github.io/" target="_blank">
 
 <div class="instructorphoto"><img src="https://jwvdm.github.io/assets/images/jwvdm_headshot_small.jpg" width="7%"
@@ -198,6 +207,31 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 <div>Zeynep Akata<br><small>TUM / Helmholtz Munich</small></div>
 </a>
 </div>
+
+# Reviewers
+
+We thank all reviewers for their efforts!
+
+<!-- Anna Kuzina
+Lukas Hauzenberger
+Nikolaus Kopp
+Leander Girrbach
+Gabriele Spadaro
+Olga Saukh
+Victor Quétu
+Gokul Srinath Seetha Ram
+Pedram Bakhtiarifard
+Anna Kazachkova
+Stefano Vrizzi
+Rayen Dhahri
+Sushant Mehta
+Eva Feillet
+Marco Federici -->
+
+| Anna Kuzina | Lukas Hauzenberger | Nikolaus Kopp | Leander Girrbach |
+| Gabriele Spadaro | Olga Saukh | Victor Quétu | Gokul Srinath Seetha Ram |
+| Pedram Bakhtiarifard | Anna Kazachkova | Stefano Vrizzi | Rayen Dhahri | 
+| Sushant Mehta | Eva Feillet | Marco Federici | |
 
 # Sponsors
 
