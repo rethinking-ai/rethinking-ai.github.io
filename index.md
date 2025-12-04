@@ -20,8 +20,8 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 | 11:30 | **Poster Session**   | –       |  |
 | 12:30 | 🍽️ **Lunch**        | –       |  |
 | 13:30 | **Speaker 3** | Bernd Ensing| |
-| 14:00 | **Speaker 4** | Jan-Willem van de Meent| |
-| 14:30 | **Speaker 5** | Sina Samangooei| The CuspAI Platform: Foundation Models, Search, and Agents for Materials Discovery |
+| 14:00 | **Speaker 4** | [Jan-Willem van de Meent](https://jwvdm.github.io/)| Variational Flow Matching: Efficient Generative Modeling for Scientific Discovery |
+| 14:30 | **Speaker 5** | [Sina Samangooei](https://scholar.google.com/citations?user=bOfKAGQAAAAJ&hl=en)| The CuspAI Platform: Foundation Models, Search, and Agents for Materials Discovery |
 | 15:00 | ☕ **Coffee Break**              | –              |  |
 | 15:45 | 🎤 **Panel Discussion**         | All the speakers  |  |
 | 16:45 | **Closing remarks**    | –              |  |
@@ -252,6 +252,7 @@ Marco Federici -->
 
 
 For any inquiry, you can reach out to: <rethinking-ai-workshop@googlegroups.com>
+
 
 
 
