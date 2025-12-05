@@ -19,7 +19,7 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 | 11:00 | **Poster Spotlights** | –       |  |
 | 11:30 | **Poster Session**   | –       |  |
 | 12:30 | 🍽️ **Lunch**        | –       |  |
-| 13:30 | **Speaker 3** | Bernd Ensing| |
+| 13:30 | **Speaker 3** | [Bernd Ensing](http://www.compche.nl/ensing)| Learning a Neural Free-Energy Functional from Pair-Correlation Functions|
 | 14:00 | **Speaker 4** | [Jan-Willem van de Meent](https://jwvdm.github.io/)| Variational Flow Matching: Efficient Generative Modeling for Scientific Discovery |
 | 14:30 | **Speaker 5** | [Sina Samangooei](https://scholar.google.com/citations?user=bOfKAGQAAAAJ&hl=en)| The CuspAI Platform: Foundation Models, Search, and Agents for Materials Discovery |
 | 15:00 | ☕ **Coffee Break**              | –              |  |
@@ -252,6 +252,7 @@ Marco Federici -->
 
 
 For any inquiry, you can reach out to: <rethinking-ai-workshop@googlegroups.com>
+
 
 
 
