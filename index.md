@@ -8,7 +8,7 @@ title: "Rethinking AI: Efficiency, Frugality, and Sustainability"
 As Artificial Intelligence systems grow in complexity and scale, so do their environmental and societal impact. This workshop explores the urgent need for rethinking AI in terms of sustainability, with a focus on ecological and environmental issues. Presentations and discussions will rely on two pillars: 
 *Sustainability in AI*, focused on reducing the ecological footprint of machine learning research and deployment, and *AI for Sustainability*, highlighting applications to global environmental challenges. With an emphasis on introspection of current practices, the workshop aims to foster responsible innovation, shared metrics, and encourage the community to design methods that are efficient, accessible, and viable with constrained resources.
 
-# Schedule (not final)
+# Schedule
 
 | Time  |                 | Speaker |    |
 | ----- | -------------------- | ------- | ----- |
@@ -28,31 +28,29 @@ As Artificial Intelligence systems grow in complexity and scale, so do their env
 
 # Accepted papers
 
-## 📑 Accepted Papers
-
 | Type | Title | Authors |
 |--------|---------|---------|
-| Short | **Approximate Matrix Multiplication for Energy-Efficient Training of LLMs** | Nils Kasper, Anna Kazachkova, Rainer Schlosser, Ralf Herbrich | 
+| Short | [**Approximate Matrix Multiplication for Energy-Efficient Training of LLMs**](./assets/papers/1_Approximate_Matrix_Multiplic.pdf) | Nils Kasper, Anna Kazachkova, Rainer Schlosser, Ralf Herbrich | 
 | Short | **Sustainable AI research? Researchers’ perceptions of the environmental impact of AI and emissions-feedback tools – a mixed methods study** | Theresa Willem, Marie Piraud | 
-| Long | **xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity** | Maximilian Beck, Kajetan Schweighofer, Sebastian Böck, Sebastian Lehner, Sepp Hochreiter | 
-| Short | **JumpLM - LLM Benchmarking and Interactive Performance Monitoring for higher GPU Utilization** | Lena Jurkschat, Anton Rygin, Elias Werner | 
-| Short | **NA-LR: Noise-Adaptive Low-Rank Parameterisation for Efficient Diffusion Models** | Jingyuan Wang, Federico Ottomano, Yingzhen Li | 
-| Long | **Cut Less, Fold More: Model Compression through the Lens of Projection Geometry** | Olga Saukh, Dong Wang, Haris Šikić, Yun Cheng, Lothar Thiele | 
-| Long | **Quant-Trim in Practice: Improved Cross-Platform Low-Bit Deployment on Edge NPUs** | Rayen Dhahri, Steffen Urban | 
-| Long | **Energy-Aware Benchmarking: A Case Study on Sampling Methods** | Anna Kazachkova, Johann Ukrow, Sven Köhler, Nicolas Alder, Rainer Schlosser, Ralf Herbrich | 
-| Long | **KaVa: Latent Reasoning via Compressed KV-Cache Distillation** | Anna Kuzina, Maciej Pióro, Paul N. Whatmough, Babak Ehteshami Bejnordi | 
+| Long | [**xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity**](./assets/papers/7_xLSTM_Scaling_Laws_Competiti.pdf) | Maximilian Beck, Kajetan Schweighofer, Sebastian Böck, Sebastian Lehner, Sepp Hochreiter | 
+| Short | [**JumpLM - LLM Benchmarking and Interactive Performance Monitoring for higher GPU Utilization**](./assets/papers/8_JumpLM_LLM_Benchmarking_and_.pdf) | Lena Jurkschat, Anton Rygin, Elias Werner | 
+| Short | [**NA-LR: Noise-Adaptive Low-Rank Parameterisation for Efficient Diffusion Models**](./assets/papers/9_NA_LR_Noise_Adaptive_Low_Ran.pdf) | Jingyuan Wang, Federico Ottomano, Yingzhen Li | 
+| Long | [**Cut Less, Fold More: Model Compression through the Lens of Projection Geometry**](./assets/papers/12_Cut_Less_Fold_More_Model_Co.pdf) | Olga Saukh, Dong Wang, Haris Šikić, Yun Cheng, Lothar Thiele | 
+| Long | [**Quant-Trim in Practice: Improved Cross-Platform Low-Bit Deployment on Edge NPUs**](./assets/papers/13_Quant_Trim_in_Practice_Impr.pdf) | Rayen Dhahri, Steffen Urban | 
+| Long | [**Energy-Aware Benchmarking: A Case Study on Sampling Methods**](./assets/papers/14_Energy_Aware_Benchmarking_A.pdf) | Anna Kazachkova, Johann Ukrow, Sven Köhler, Nicolas Alder, Rainer Schlosser, Ralf Herbrich | 
+| Long | [**KaVa: Latent Reasoning via Compressed KV-Cache Distillation**](./assets/papers/19_KaVa_Latent_Reasoning_via_C.pdf) | Anna Kuzina, Maciej Pióro, Paul N. Whatmough, Babak Ehteshami Bejnordi | 
 | Short | **Position: From Abundance to Frugality. Why the Future of Frontier AI Depends on Data Reduction** | Sophia N. Wilson, Raghavendra Selvan, Sebastian Mair | 
 | Long | **Climate And Resource Awareness is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race)** | Pedram Bakhtiarifard, Pınar Tözün, Christian Igel, Raghavendra Selvan | 
-| Long | **STaMP: Sequence Trasformation and Mixed Precision for Low-Precision Activation Quantization** | Marco Federici, Riccardo Del Chiaro, Boris van Breugel, Markus Nagel, Paul N. Whatmough | 
+| Long | [**STaMP: Sequence Trasformation and Mixed Precision for Low-Precision Activation Quantization**](./assets/papers/29_STaMP_Sequence_Trasformatio.pdf) | Marco Federici, Riccardo Del Chiaro, Boris van Breugel, Markus Nagel, Paul N. Whatmough | 
 | Long | **xLSTM Distillation: Achieving Teacher-Student Parity Through Efficient Hybrid Architectures** | Lukas Hauzenberger, Niklas Schmidinger, Thomas Schmied, Anamaria-Roberta Hartl, David Stap, Pieter-Jan Hoedt, Sebastian Böck, Günter Klambauer, Sepp Hochreiter | 
 | Long | **Optimizing Large Language Models: Metrics, Energy Efficiency, and Case Study Insights** | Tahniat Khan, Soroor Motie, Sedef Akinli Kocak, Shaina Raza | 
 | Short | **The impacts of AI on environmental sustainability and human well-being** | Noemi Luna Carmeno, Daniel Walton O'Neill, Tiago Domingos | 
-| Short | **Efficiency Will Not Lead to Sustainable Reasoning AI** | Philipp Wiesner, Daniel O'Neill, Francesca Larosa, Odej Kao | 
-| Short | **Modelling the Doughnut of social and planetary boundaries with frugal machine learning** | Stefano Vrizzi, Daniel Walton O'Neill | 
-| Long | **SpikeFit: Towards Optimal Deployment of Spiking Networks on Neuromorphic Hardware** | Ivan Kartashov, Mariia Pushkareva, Iakov Karandashev | 
-| Long | **Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation** |Aniketh Iyengar, Jiaqi Han, Boris Ruf, Vincent Grari, Marcin Detyniecki, Stefano Ermon  | 
+| Short | [**Efficiency Will Not Lead to Sustainable Reasoning AI**](./assets/papers/35_Efficiency_Will_Not_Lead_to.pdf) | Philipp Wiesner, Daniel O'Neill, Francesca Larosa, Odej Kao | 
+| Short | [**Modelling the Doughnut of social and planetary boundaries with frugal machine learning**](./assets/papers/36_Modelling_the_Doughnut_of_s.pdf) | Stefano Vrizzi, Daniel O'Neill | 
+| Long | [**SpikeFit: Towards Optimal Deployment of Spiking Networks on Neuromorphic Hardware**](./assets/papers/37_SpikeFit_Towards_Optimal_De.pdf) | Ivan Kartashov, Mariia Pushkareva, Iakov Karandashev | 
+| Long | [**Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation**](./assets/papers/39_Energy_Scaling_Laws_for_Dif.pdf) |Aniketh Iyengar, Jiaqi Han, Boris Ruf, Vincent Grari, Marcin Detyniecki, Stefano Ermon  | 
 | Long | **CacheSaver: A Modular Framework for Efficient, Affordable, and Reproducible LLM Inference** |Nearchos Potamitis, Lars Henning Klein, Bardia Mohammadi, Chongyang Xu, Attreyee Mukherjee, Laurent Bindschaedler, Niket Tandon, Akhil Arora  | 
-| Long | **TiME: Tiny Monolingual Encoders for Efficient NLP Pipelines** | David Schulmeister, Valentin Hartmann, Lars Henning Klein, Robert West | 
+| Long | [**TiME: Tiny Monolingual Encoders for Efficient NLP Pipelines**](./assets/papers/46_TiME_Tiny_Monolingual_Encod.pdf) | David Schulmeister, Valentin Hartmann, Lars Henning Klein, Robert West | 
 
 
 # Important Dates
@@ -157,16 +155,6 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 
 </div>
 
-<div class="instructor">
-<a href="https://gael-varoquaux.info/" target="_blank">
-
-<div class="instructorphoto"><img src="https://gael-varoquaux.info/images/gael_varoquaux.jpg" width="7%"
-> </div>
-<div>Gaël Varoquaux<br><small>Inria</small></div>
-</a>
-
-</div>
-
 # Organizers
 
 <div class="instructor">
@@ -174,7 +162,7 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 
 <div class="instructorphoto"><img src="https://www.eml-munich.de/team/quentin-bouniot.jpg" width="7%"
 > </div>
-<div>Quentin Bouniot<br><small>TUM / Helmholtz Munich</small></div>
+<div>Quentin Bouniot<br><small>TUM & Helmholtz Munich</small></div>
 </a>
 
 </div>
@@ -204,7 +192,7 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 
 <div class="instructorphoto"><img src="https://www.eml-munich.de/team/zeynep-akata.jpg" width="20%">
 </div>
-<div>Zeynep Akata<br><small>TUM / Helmholtz Munich</small></div>
+<div>Zeynep Akata<br><small>TUM & Helmholtz Munich</small></div>
 </a>
 </div>
 
