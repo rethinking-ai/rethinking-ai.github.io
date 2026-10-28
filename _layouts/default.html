@@ -18,6 +18,21 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if page.edition %}
+        <nav class="edition-switcher" aria-label="Workshop editions">
+          {% for ed in site.editions %}
+            <a href="{{ ed.url | relative_url }}" class="btn{% if ed.year == page.edition %} active{% endif %}"{% if ed.year == page.edition %} aria-current="page"{% endif %}>{{ ed.year }} · {{ ed.venue }}</a>
+          {% endfor %}
+        </nav>
+      {% endif %}
+      {% if page.sections %}
+        <nav class="section-nav" aria-label="Page sections">
+          {% for s in page.sections %}
+            {% unless forloop.first %}<span class="section-sep" aria-hidden="true">|</span>{% endunless %}
+            <a href="#{{ s.id }}" class="btn">{{ s.title }}</a>
+          {% endfor %}
+        </nav>
+      {% endif %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}

@@ -20,9 +20,18 @@
 
 title: "Rethinking AI: Efficiency, Frugality, and Sustainability"
 email: rethinking-ai-workshop@googlegroups.com
-description:  # this means to ignore newlines until "baseurl:"
-  "Workshop @ Eurips 2025, at University of Copenhagen (KU) <br> room 9A.3.01 (Alf Ross Auditorium) <br> Njalsgade 76, 2300 Copenhagen <br>  <br> 
-  <strong>Saturday, 6th December 2025, Full Day</strong>"
+# Each edition's page sets its own tagline (venue, date) via `description` in its front matter.
+description: "Workshop on efficiency, frugality, and sustainability in AI"
+
+# Editions shown in the header switcher, newest first.
+# To add an edition: add an entry here and create <year>/index.md (or move the current one).
+editions:
+  - year: 2026
+    venue: ELLIS UnConference
+    url: /
+  - year: 2025
+    venue: EurIPS
+    url: /2025/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
