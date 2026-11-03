@@ -7,6 +7,7 @@ sections:
   - { title: "Motivation and Scope", id: motivation-and-scope }
   - { title: "Schedule", id: schedule }
   - { title: "Speakers", id: speakers }
+  - { title: "Call for Posters", id: call-for-posters }
   - { title: "Organizers", id: organizers }
   - { title: "Contact", id: contact }
 description: "Session @ <a href='https://ellis-unconference.github.io/' target='_blank'>ELLIS UnConference 2026</a>,<br> at Palais des Congrès de Paris <br> 2 Place de la Porte Maillot, 75017 Paris <br>  <br> 
@@ -242,6 +243,19 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 
 </div>
 -->
+
+# Call for Posters
+
+We invite the submission of papers to be presented as posters at our session. We welcome recently accepted papers related to the following subjects: frugal and efficient ML, environmental impact measurement, life-cycle analysis, and policy.
+
+Papers will be evaluated on a rolling basis.
+
+- **Submission link:** <https://forms.gle/iCUqXb6DUZuHuynz6>
+- **Deadline:** November 30, 2026, at 23:59 AoE
+
+**Notes:**
+- Contributions are non-archival.
+- Information about the accepted papers and the poster size will be communicated soon.
 
 # Organizers
 
