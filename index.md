@@ -42,7 +42,7 @@ Order and time of presentations to be confirmed.
 | 14:10 | **Speaker 1** | [Antonio Orvieto](https://orvi.altervista.org/) | TBC |
 | 14:35 | **Speaker 2** | [Olga Saukh](https://sites.google.com/view/olgasaukh/home) | TBC |
 | 15:00 | **Speaker 3** | [Dan O'Neill](https://www.danoneill.org) | TBC |
-| 15:25 | **Speaker 4** | [Anne-Laure Ligozat](https://perso.limsi.fr/annlor/) | TBC |
+| 15:25 | **Speaker 4** | [Gaël Varoquaux](https://gael-varoquaux.info/) | TBC |
 | 15:50 | **Closing: commitments & next steps** | – | |
 
 <!-- Previous schedule (EurIPS 2025 copy)
@@ -182,6 +182,17 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 </div>
 
 <div class="instructor">
+<a href="https://gael-varoquaux.info/" target="_blank">
+
+<div class="instructorphoto"><img src="https://gael-varoquaux.info/pages/attachments/gael_varoquaux_2.jpg" width="7%"
+> </div>
+<div>Gaël Varoquaux<br><small>Inria</small></div>
+</a>
+
+</div>
+
+<!-- Previous speaker (replaced by Gaël Varoquaux)
+<div class="instructor">
 <a href="https://perso.limsi.fr/annlor/" target="_blank">
 
 <div class="instructorphoto"><img src="https://science.feedback.org/wp-content/uploads/2025/02/anne-300x300.jpg" width="7%"
@@ -190,6 +201,7 @@ We also welcome work that demonstrates how AI can contribute to tackling urgent 
 </a>
 
 </div>
+-->
 
 <!-- Previous speakers (EurIPS 2025 copy)
 <div class="instructor">
